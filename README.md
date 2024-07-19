@@ -1,4 +1,4 @@
-### Web Developer
+### A philippine based frontend web developer
 
 <!--
 **kaelexe/kaelexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
